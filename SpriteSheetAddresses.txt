@@ -1,0 +1,5 @@
+http://opengameart.org/content/animated-traps-and-obstacles		Obstacles		CC BY 3.0
+
+http://opengameart.org/content/industrial-parallax-background 		Parallax background	CC0
+
+http://opengameart.org/content/jack-o-lantern-free-sprite		Player			CC0
