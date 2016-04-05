@@ -12,6 +12,7 @@ public class ObstacleController : MonoBehaviour
 	void Start ()
     {
         InvokeRepeating("SpawnObstacle", 0f, 3f);
+        playerObj = GameObject.Find("Ninja");
 	}
 	
 	void SpawnObstacle()
